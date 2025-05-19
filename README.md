@@ -10,7 +10,6 @@ Projeto de extensão com foco na prática gratuita de karatê em espaço públic
 
 ## Estrutura
 - `script.sql`: Criação e manipulação do banco de dados
-- `diagrama-er.png`: Modelo de dados
 - `README.md`: Este arquivo
 
 ## Requisitos
